@@ -4,7 +4,6 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
 ---
 
 # Ling Yi's Website
@@ -14,7 +13,4 @@ output:
 I am a 2nd year masters student in the Department of Epidmiology with a certificate in toxicology. I graduated with a Bachelor's of Science from the Univeristy of Scranton majoring in Biology and Philosophy. Below is a picture of my dog that my family adopted six years ago. Her name is Maya. 
 
 ![](images/maya.jpg)
-Information about my academic and professional experience can be found in the following link: [About Me](about.html)
-
-My GitHub account can be found [here](https://github.com/Ling-Yi521) and 
-my LinkedIn account can be found [here](https://www.linkedin.com/in/ling-yi-769847163/)
+Information about my academic and professional experience can be found in the following link: [About Me](about.html) or the link in the navigation bar. 
