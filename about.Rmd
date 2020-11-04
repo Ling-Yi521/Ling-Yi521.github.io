@@ -1,0 +1,52 @@
+---
+title: "About me"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This page has information about my academic and profession experience (i.e. resume)
+
+**Education**
+
+Columbia University Mailman School of Public Health, New York, NY
+Master of Public Health in Epidemiology, Certificate in Toxicology, expected May 2021
+•	Relevant Courses: Data Science, Spatial Epidemiology, and Design and Conduct of Observational Epidemiology 
+The University of Scranton, Scranton, PA
+Bachelor of Science: Biology, Philosophy (Double Major), Minors: Biochemistry and Psychology, GPA of 3.67, May 2018
+•	Magna Cum Lauda, Dean’s List (6 semesters), Phi Sigma Tau (Philosophy Honor Society)
+•	Special Jesuit Liberal Arts Honors Program, The Honors Program 
+•	Honors Thesis: “Evolution of the Pericardium Meridian: How the Meridian Theory of Chinese Medicine is Evolving 
+
+**Professiona Experience**
+
+Research Intern, Columbia University, Mailman School of Public Health, New York, NY                        
+•	Conducted literature review and prepared a literature review chart
+•	Acquired data set, wrote R code to develop the study sample (1213) and created descriptive tables to guide analysis
+•	Assisted in creating multivariable regression models to analyze the relationship between exposure and outcome. 
+
+Research Intern, Smithsonian Tropical Research Institute, BCI, Panama                                     
+•	Collected Megalopta bees from the field and extracted them from nest for a study
+•	Treated bees with Dopamine, ran circle tube tests, dissected the brains and ovaries to study effects of Dopamine on aggressive behavior
+•	Used ImageJ to determine the size of the brain and ovaries
+
+Tutor, The University of Scranton, Center for Teaching and Learning Excellence, Scranton, PA
+•	Tutored 3 students in general biology, general chemistry, and statistics each week
+
+Lab Assistant, Penn State College of Medicine, Hershey, PA                                                 
+•	Supported with grant writing while utilizing written and verbal communication skills
+•	Worked with supervision in a Biochemistry Lab
+
+**Other Experience**
+
+Barista, Desserts Etc. Hershey, PA                                                                         
+•	Welcomed customers and prepared coffee drinks by following recipes and techniques
+
+International Ambassador, Hershey’s Chocolate World, Hershey, PA                                           
+•	Translated for 150 Chinese tourists per day and communicated with them to ensure customer satisfaction   
+
+
+
+

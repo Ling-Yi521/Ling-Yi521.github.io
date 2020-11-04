@@ -1,0 +1,17 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# Ling Yi's Website
+
+**Brief Introduction**
+
+I am a 2nd year masters student in the Department of Epidmiology with a certificate in toxicology. I graduated with a Bachelor's of Science from the Univeristy of Scranton majoring in Biology and Philosophy. Below is a picture of my dog that my family adopted six years ago. Her name is Maya. 
+
+![](images/maya.jpg)
+Information about my academic and professional experience can be found in the following link: [About Me](about.html)
