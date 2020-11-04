@@ -14,3 +14,22 @@ library(p8105.datasets)
 library(plotly)
 ```
 
+```{r}
+data("rest_inspec")
+
+```
+
+```{r}
+
+rest_inspec =
+  rest_inspec %>%
+  filter(grade %in% c("A", "B", "C"), boro != "Missing") %>% 
+  mutate(boro = str_to_title(boro))
+```
+
+
+```{r}
+rest_inspec %>% 
+   plot_ly(x = ~cuisine_description,  color= ~grade , colors = "viridis")
+```
+
