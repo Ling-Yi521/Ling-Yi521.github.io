@@ -15,3 +15,6 @@ I am a 2nd year masters student in the Department of Epidmiology with a certific
 
 ![](images/maya.jpg)
 Information about my academic and professional experience can be found in the following link: [About Me](about.html)
+
+My GitHub account can be found [here](https://github.com/Ling-Yi521) and 
+my LinkedIn account can be found [here](https://www.linkedin.com/in/ling-yi-769847163/)
