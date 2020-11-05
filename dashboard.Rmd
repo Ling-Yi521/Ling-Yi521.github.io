@@ -18,7 +18,7 @@ library(flexdashboard)
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Chart A
+### Number of restaurants with grades A, B, C, for Asian Cuisine
 
 ```{r}
 data("rest_inspec")
@@ -36,7 +36,7 @@ rest_inspec %>%
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B
+### Grades for different inspection types in restaurants in bronx
 
 ```{r}
 rest_inspec %>% 
@@ -44,7 +44,7 @@ rest_inspec %>%
   plot_ly(x = ~inspection_type, y = ~score, color = ~grade, type = "scatter", mode = "markers")
 ```
 
-### Chart C
+### Distribution of scores for restaurants in the different Boroughs. 
 
 ```{r}
 rest_ggplot = 
